@@ -5,6 +5,3 @@
 - 📫 How to reach me: baleszkadev@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Im short
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baleszka)](https://github.com/anuraghazra/github-readme-stats)
